@@ -10,7 +10,8 @@ Where:
 `C = 12`
 
 The converter supports:
-Converting base-13 numbers to decimal
+
+Converting decimal to based-13 numbers
 
 Handling both uppercase input and negative numbers
 
